@@ -3,3 +3,7 @@ DevOPs Course Curriculum
 Linux and Shell Scripting
 Networking Basics
 Git and Github
+
+Jenkins 
+Maven
+Terraform
